@@ -1,0 +1,10 @@
+Setup Your Gmail to mail driver.
+Import database authpractice.sql to your php myadmin
+user login : 
+email= rahel373279@gmail.com
+password = 123456
+
+Admin Login :
+
+email= rubelraj225@gmail.com
+password= 12345678
